@@ -11,17 +11,17 @@
 I am a Machine Learning Enthusiast with a deep interest in Problem Solving. As a 'software engineer in process', I am obsessed with the idea that software and technology can bring impactful change and transform people's lives.
 
 <div align="center">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurisha21&theme=github_dark" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaurisha21&theme=github_dark"  />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gaurisha21&theme=github_dark"  />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gaurisha21&theme=github_dark"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gaurisha21&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geetika-2001&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Geetika-2001&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geetika-2001&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Geetika-2001&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Geetika-2001&theme=github_dark" />
 </div>
 <!--
 <div align="center">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurisha21&theme=github_dark" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaurisha21&hide=issues&count_private=true&show_icons=true&theme=calm" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurisha21&layout=compact&theme=calm)](https://github.com/Gaurisha21/github-readme-stats)
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geetika-2001&theme=github_dark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geetika-2001&hide=issues&count_private=true&show_icons=true&theme=calm" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geetika-2001&layout=compact&theme=calm)](https://github.com/Geetika-2001/github-readme-stats)
 </div>
 -->
 
